@@ -57,24 +57,5 @@ https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%
 
 
  
-  1.Структура на проекта  
-  1.1 Изображения 
-	
-	- archive.png
-
-	- background_image.jpg
-
-	- edit.png
-	
-	- left-arrow.png
-									
-   1.2 Програмни файлове 
-	 
-	- index.php
-
-	 - data.php
-	 
-	 - display.php
-	 
-	 - style.css
+  
                          
