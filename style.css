@@ -1,0 +1,43 @@
+body {
+    background-image: url('background_image.jpg');
+    
+    
+}
+h1 {
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.input-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px; 
+    margin: 0 auto; 
+}
+  
+  .input-form input {
+    width: 100%; 
+    max-width: 100%; 
+    margin-bottom: 10px;
+}
+.input-group label {
+    margin-top: 10px; 
+    font-size: 23px;
+
+}
+#selectOption {
+    width: 300px; 
+    height: 40px; 
+}
+.top-right-link {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 16px;
+}
+.university-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
