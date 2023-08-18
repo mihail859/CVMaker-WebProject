@@ -22,6 +22,8 @@
 
   
 Начална страница
+![Екранна снимка (10)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/594865d0-2cd7-4c2b-818c-1240118235ba)
+
 https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(10).png
 
 
