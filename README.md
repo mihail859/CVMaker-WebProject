@@ -1,27 +1,27 @@
 # Създаване на СV - уеб проект
 Начална страница
-![Екранна снимка (10)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/6ac53de2-314c-4123-96de-d424ca372469)
-![Екранна снимка (14)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/95699647-f09c-49b1-a069-08c497443385)
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(10).png
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(14).png
 
 
 
 Втора страница
-![Екранна снимка (11)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/5ca27fbd-fb5d-4a80-9e4b-604e38fa2225)
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(11).png
 
 Втора страница, след въвеждане на начална и крайна дата на търсене
-![Екранна снимка (12)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/052ccb61-2340-44eb-866d-201da11ebbdb)
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(12).png
 
 База данни
-![Екранна снимка (13)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/9a4bb8c2-e51a-4072-b2ab-173f232acaf3)
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(12).png
 
 При въвеждане на невалидни данни от потребителя или непопълнени полета:
-![Екранна снимка (15)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/84b34d7f-b0d8-48f3-815c-42420c759026)
-![Екранна снимка (16)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/82219625-cc76-4187-8d98-2ee450af6d43)
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(15).png
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(16).png
 
 Добавяне на потребител в базата банни:
-![Екранна снимка (17)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/60946a05-8953-4745-ac60-8947283cc6cf)
-![Екранна снимка (18)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/e31499d7-4686-41d3-b452-473cb0e8bed5)
-![Екранна снимка (19)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/472908b4-905a-4ec3-b700-8908f64d252e)
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(17).png
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(18).png
+https://github.com/mihail859/CVMaker-WebProject/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%20(19).png
 
 
 
