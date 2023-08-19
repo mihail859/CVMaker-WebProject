@@ -58,7 +58,8 @@
 
 ![Екранна снимка (18)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/ae2b0bd5-99c0-4e18-bf25-cd88e74f8437)
 
-![Екранна снимка (19)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/2256d537-591e-434d-a5a3-171b68579e14)
+![Екранна снимка (19)](https://github.com/mihail859/CVMaker-WebProject/assets/135510186/387398e5-881d-4267-a465-0deb7a46ddac)
+
 
 
 
